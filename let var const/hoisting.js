@@ -88,22 +88,6 @@
 // }
 // b();
 
-// console.log("Hoisting");
-// debugger;
-// console.log(Numbers);
-// var Numbers = 10;
-// function a() {
-//   console.log(Numbers);
-// }
-// console.log(Numbers);
-// function b() {
-//   console.log(Numbers);
-//   var Numbers = 20;
-//   a();
-//   console.log(Numbers);
-// }
-// b();
-
 // // Question: 5
 // console.log(Numbers);
 // var Numbers; //declare

@@ -9,7 +9,7 @@
 // console.log(a, b, c)
 
 // function display(){
-//     let a = 20;
+//     var a = 20;
 
 //     if(true){
 //         let a = 30;
@@ -22,7 +22,7 @@
 /**********************************************************************/
 
 /* variable shadowing */
-// we can redeclare var with let but let with var not 
+// we can redeclare var with let but let with var not
 // function display(){
 //     var a = 20;
 
@@ -76,13 +76,13 @@
 /**********************************************************************/
 
 /* declaration without initialization */
-// var and let can be initialize without declaration 
+// var and let can be initialize without declaration
 // let a;
 // var b;
 // console.log(a, b)
 
 // const c;
-// console.log(c) // Missing initializer in const declaration 
+// console.log(c) // Missing initializer in const declaration
 
 /**********************************************************************/
 
